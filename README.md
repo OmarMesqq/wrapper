@@ -1,2 +1,1 @@
-# wrapper
-Wrapper for NanoCalc binaries
+# Wrapper for NanoCalc binaries
