@@ -1,0 +1,10 @@
+# Python dependencies 
+
+detect-delimiter
+nuitka
+openpyxl
+numpy
+pandas
+matplotlib
+tabulate
+scipy 
